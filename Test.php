@@ -17,7 +17,7 @@ class Test {
         $params->secret = 'xxx';
         $params->type = 'direct';
 
-        $params->orderSn = 'direct';
+        $params->orderSn = 'alipay_sn_dsfwe24sde24rfwesf43fe';
         $params->title = 'title';
         $params->summary = '';
         $params->amount = 0.01;//'[amount_for_goods_id]' im going to charge
